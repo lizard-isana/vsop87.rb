@@ -14,3 +14,8 @@ http://adsabs.harvard.edu/abs/1995yCat.6081....0B
 
 VizieR archives : Planetary Theories in rectangular and spherical variables: VSOP87 solution.<br/>
 http://cdsarc.u-strasbg.fr/viz-bin/Cat?cat=VI%2f81
+
+## LICENSE
+
+Copyright (c) 2017 Isana Kashiwai<br/>
+Licensed under the MIT (MIT-LICENSE) license.
