@@ -126,6 +126,8 @@ DESCRIPTION
 ===========
 
 Loading source files of VSOP87 and calculating positions of the planet at given julian day.
+You should get VSOP87 solution files from VizieR archives.
+http://cdsarc.u-strasbg.fr/viz-bin/Cat?cat=VI%2f81
 
 USAGE
 =========
@@ -136,9 +138,11 @@ if you omit param "d" you will get current position.
 
 REFERENCE
 =========
+VizieR Online Data Catalog: Planetary Solutions VSOP87 (Bretagnon+, 1988)
+http://adsabs.harvard.edu/abs/1995yCat.6081....0B
 
-VI/81 Planetary Solutions VSOP87 (Bretagnon+, 1988)
-http://cdsarc.u-strasbg.fr/viz-bin/ftp-index?VI/81
+ VizieR archives : Planetary Theories in rectangular and spherical variables: VSOP87 solution.
+http://cdsarc.u-strasbg.fr/viz-bin/Cat?cat=VI%2f81
 
 ### Here is the description of VSOP87 files. ###
 
